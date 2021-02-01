@@ -1,3 +1,5 @@
+# A thread safe implementation of original t Digest algorithm
+
 # CPP TDigest
 The following repository contains an implementation of the [t-digest](https://github.com/tdunning/t-digest) algorithm.
 
