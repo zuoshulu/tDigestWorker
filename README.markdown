@@ -6,7 +6,7 @@ The following repository contains an implementation of the [t-digest](https://gi
 # Build
 Clone this repository:
 
-    git clone https://github.com/gpichot/cpp-tdigest.git
+    git clone https://github.com/zuoshulu/tdigestWorker.git
 
 Then, in the newly created folder cpp-tdigest create a new directory build:
 
